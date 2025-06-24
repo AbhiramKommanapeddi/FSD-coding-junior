@@ -5,7 +5,7 @@ A powerful VS Code extension that integrates a React-based web chat interface fo
 ## 🚀 Features
 
 - **React WebView Chat Interface**: Modern, responsive chat UI built with React
-- **AI Integration**: Powered by OpenAI API (GPT-3.5-turbo, GPT-4, GPT-4-turbo)
+- **AI Integration**: Powered by OpenAI API 
 - **File Attachment System**: Support for `@filename` mentions with autocomplete
 - **Workspace Context**: Automatically includes current workspace files and content
 - **Markdown Support**: Rich text rendering with code syntax highlighting
