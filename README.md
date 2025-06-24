@@ -1,45 +1,22 @@
-# AI Chat Extension Demo
+# Test Workspace
 
-This is a demo workspace for testing the AI Chat Extension.
+This is a test workspace for the AI Chat Extension.
 
 ## Features to Test
 
-### 1. Basic Chat Functionality
+1. **Chat Interface**: Open the AI Chat panel and test basic messaging
+2. **File Attachment**: Try attaching the `sample.js` file using @filename
+3. **Code Analysis**: Ask the AI to analyze the code in attached files
+4. **Workspace Context**: Test how the AI understands the current workspace
 
-- Send messages to the AI
-- Receive formatted responses
-- Test markdown rendering
+## Sample Code Files
 
-### 2. File Attachment System
+- `sample.js` - Basic JavaScript file with functions and classes
+- `README.md` - This documentation file
 
-- Use `@demo.js` to attach the JavaScript file
-- Test file search autocomplete
-- Verify file content is analyzed by AI
+## Getting Started
 
-### 3. Code Analysis
-
-- Ask AI to analyze the TaskManager class
-- Request code improvements
-- Generate unit tests
-
-### 4. Workspace Context
-
-- Ask about project structure
-- Request documentation generation
-- Test workspace file awareness
-
-## Sample Prompts to Try
-
-1. "Analyze the code in @demo.js and suggest improvements"
-2. "Generate unit tests for the TaskManager class"
-3. "What design patterns are used in this code?"
-4. "How can I make this code more efficient?"
-5. "Create documentation for this project"
-
-## Expected Results
-
-- ✅ Chat interface opens smoothly
-- ✅ AI responds with relevant code analysis
-- ✅ File attachments work correctly
-- ✅ Markdown and code highlighting render properly
-- ✅ Loading indicators show during processing
+1. Open the Command Palette (Ctrl+Shift+P)
+2. Search for "AI Chat: Open Chat Interface"
+3. Configure your OpenAI API key in settings
+4. Start chatting!
